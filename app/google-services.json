@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "817658709363",
+    "firebase_url": "https://mejatim-48cc0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mejatim-48cc0",
+    "storage_bucket": "mejatim-48cc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817658709363:android:005f8f63a4f41dd3b53106",
+        "android_client_info": {
+          "package_name": "com.example.projectmejatim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfBheQo-cmLXIm00LPy-ldxJg2WgXNzFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
